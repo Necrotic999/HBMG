@@ -54,7 +54,7 @@ a{
 
 .list {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 20px 60px;
     margin-bottom: 100px;
 }
