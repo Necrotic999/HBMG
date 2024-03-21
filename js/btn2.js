@@ -1,38 +1,38 @@
 const cats = [
     {
-        img: "../img/cat1.jpg",
+        img: "./img/cat1.jpg",
         decr: "Это ты - такая же миленькая",
     },
     {
-        img: "../img/cat2.jpg",
+        img: "./img/cat2.jpg",
         decr: "Это ты стоишь внимательно слушаешь",
     },
     {
-        img: "../img/cat3.jpg",
+        img: "./img/cat3.jpg",
         decr: "Это ты уже все, в отключке хахах",
     },
     {
-        img: "../img/cat4.jpg",
+        img: "./img/cat4.jpg",
         decr: "Это ты меня зовешь к себе, типо привет пупсэээээк AXAXAXAXAXAX",
     },
     {
-        img: "../img/cat5.jpg",
+        img: "./img/cat5.jpg",
         decr: "это ты проснулась)",
     },
     {
-        img: "../img/cat6.jpg",
+        img: "./img/cat6.jpg",
         decr: "Это ты когда обижаешься XAXAXAXAXAXAXAXAXAXAX",
     },
     {
-        img: "../img/cats1.jpg",
+        img: "./img/cats1.jpg",
         decr: "О, а это мы втыкаем хахахха",
     },
     {
-        img: "../img/cats2.jpg",
+        img: "./img/cats2.jpg",
         decr: "А это мы спим :)",
     },
     {
-        img: "../img/cats3.jpg",
+        img: "./img/cats3.jpg",
         decr: "А это мы бесимся хах",
     },
 ];
